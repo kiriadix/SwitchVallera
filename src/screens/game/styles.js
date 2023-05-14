@@ -11,7 +11,7 @@ export const styles = StyleSheet.create({
     flex: 1,
   },
   title: {
-    fontSize: 16,
+    fontSize: 25,
     color: theme.colors.text,
     textAlign: 'center',
     paddingVertical: 20,
